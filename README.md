@@ -1,6 +1,6 @@
 # Audio_PCM5102A_Breakout
 
-This is a breakout board for the Textas Instrument PCM5102A chip. It is a I2S Audio Stereo DAC.
+This is a breakout board for the Texas Instrument PCM5102A chip. It is a I2S Audio Stereo DAC.
 
 According to the manufacturer:
 
